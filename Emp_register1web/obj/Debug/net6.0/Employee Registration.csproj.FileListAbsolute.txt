@@ -1,0 +1,174 @@
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\bin\Debug\net6.0\appsettings.json
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\bin\Debug\net6.0\Employee Registration.staticwebassets.runtime.json
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\bin\Debug\net6.0\Employee Registration.exe
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\bin\Debug\net6.0\Employee Registration.deps.json
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\bin\Debug\net6.0\Employee Registration.runtimeconfig.json
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\bin\Debug\net6.0\Employee Registration.dll
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\bin\Debug\net6.0\Employee Registration.pdb
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\obj\Debug\net6.0\Employee Registration.csproj.AssemblyReference.cache
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\obj\Debug\net6.0\Employee Registration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\obj\Debug\net6.0\Employee Registration.AssemblyInfoInputs.cache
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\obj\Debug\net6.0\Employee Registration.AssemblyInfo.cs
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\obj\Debug\net6.0\Employee Registration.csproj.CoreCompileInputs.cache
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\obj\Debug\net6.0\Employee Registration.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\obj\Debug\net6.0\Employee Registration.RazorAssemblyInfo.cache
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\obj\Debug\net6.0\Employee Registration.RazorAssemblyInfo.cs
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\obj\Debug\net6.0\staticwebassets\msbuild.Employee Registration.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\obj\Debug\net6.0\staticwebassets\msbuild.build.Employee Registration.props
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Employee Registration.props
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Employee Registration.props
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\obj\Debug\net6.0\scopedcss\bundle\Employee Registration.styles.css
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\obj\Debug\net6.0\scopedcss\projectbundle\Employee Registration.bundle.scp.css
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\obj\Debug\net6.0\Employee Registration.csproj.CopyComplete
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\obj\Debug\net6.0\Employee Registration.dll
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\obj\Debug\net6.0\refint\Employee Registration.dll
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\obj\Debug\net6.0\Employee Registration.pdb
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\obj\Debug\net6.0\Employee Registration.genruntimeconfig.cache
+C:\Users\ksenthilkumar\source\repos\Emp_register1\Emp_register1web\obj\Debug\net6.0\ref\Employee Registration.dll
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\bin\Debug\net6.0\Employee Registration.staticwebassets.runtime.json
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\bin\Debug\net6.0\Employee Registration.exe
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\bin\Debug\net6.0\Employee Registration.deps.json
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\bin\Debug\net6.0\Employee Registration.runtimeconfig.json
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\bin\Debug\net6.0\Employee Registration.dll
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\bin\Debug\net6.0\Employee Registration.pdb
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\bin\Debug\net6.0\Humanizer.dll
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\obj\Debug\net6.0\Employee Registration.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\obj\Debug\net6.0\Employee Registration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\obj\Debug\net6.0\Employee Registration.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\obj\Debug\net6.0\Employee Registration.AssemblyInfo.cs
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\obj\Debug\net6.0\Employee Registration.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\obj\Debug\net6.0\Employee Registration.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\obj\Debug\net6.0\Employee Registration.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\obj\Debug\net6.0\Employee Registration.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\obj\Debug\net6.0\staticwebassets\msbuild.Employee Registration.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\obj\Debug\net6.0\staticwebassets\msbuild.build.Employee Registration.props
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Employee Registration.props
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Employee Registration.props
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\obj\Debug\net6.0\scopedcss\bundle\Employee Registration.styles.css
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\obj\Debug\net6.0\scopedcss\projectbundle\Employee Registration.bundle.scp.css
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\obj\Debug\net6.0\Employee Registration.csproj.CopyComplete
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\obj\Debug\net6.0\Employee Registration.dll
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\obj\Debug\net6.0\refint\Employee Registration.dll
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\obj\Debug\net6.0\Employee Registration.pdb
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\obj\Debug\net6.0\Employee Registration.genruntimeconfig.cache
+C:\Users\user\Desktop\Emp_register1\Emp_register1web\obj\Debug\net6.0\ref\Employee Registration.dll

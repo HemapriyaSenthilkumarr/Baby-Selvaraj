@@ -1,0 +1,71 @@
+﻿
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+
+<h1>Registered Employee</h1>
+
+
+
+<table class="table table-bordered table stripped" style="width:100%">
+    <!--Table header-->
+    <thead>
+        <tr>
+            <th>
+                Employee Id
+            </th>
+            <th>
+                Full Name
+            </th>
+            
+            <th>
+                Gender
+            </th>
+            <th>
+                Email
+            </th>
+            <th>
+                Date Of Joining
+            </th>
+            <th>
+                Department
+            </th>
+            <th>
+                Location
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var obj in Model)
+        {
+            <tr>
+                <td width="8%">
+                    @obj.EmployeeId
+                </td>
+                <td width="15%">
+                    @obj.FirstName @obj.LastName
+                </td>
+                
+                <td width="10%">
+                    @obj.Gender
+                </td>
+                <td width="15%">
+                    @obj.Email
+                </td>
+                <td width="15%">
+                    @obj.DateOfJoining.ToString(string.Format("dd/MM/yyyy"))
+                </td>
+                <td width="15%">
+                    @obj.Department
+                </td>
+                <td width="20%">
+                    @obj.Location
+                </td>
+               
+            </tr>
+        }
+    </tbody>
+</table>

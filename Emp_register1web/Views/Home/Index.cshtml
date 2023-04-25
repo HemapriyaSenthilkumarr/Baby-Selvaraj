@@ -1,0 +1,85 @@
+﻿@model EmpRegister
+@{
+    ViewData["Title"] = "Index";
+}
+<h2>Employee Registration</h2>
+<br />
+
+<form method="post">
+  <div class="row">
+        <div class="container" style="border:2px">
+            <div class="col-md-4 offset-4 border border-primary rounded pl-5 pr-5 pb-5  justify-content-center pt-5">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">              
+                <label asp-for="FirstName" style="margin-bottom:5px; display:inline-block;"> </label>
+                <input type="text" asp-for="FirstName" style="margin-left:30px;">
+                <br />
+                <span asp-validation-for="FirstName" class="text-danger"></span>             
+            </div> 
+            <br />
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">              
+                <label  asp-for="LastName" style="margin-bottom:5px; display:inline-block;"> </label>&nbsp;&nbsp;
+                <input type="text" asp-for="LastName" style="margin-left:20px;">
+                <br />
+                <span asp-validation-for="LastName" class="text-danger"></span>            
+            </div>
+            <br />
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">              
+                <label asp-for="Email" style="margin-bottom:5px; display:inline-block;"></label>&nbsp;
+                <input type="email" asp-for="Email" style="margin-left:55px;">
+                <br />
+                <span asp-validation-for="Email" class="text-danger"></span>             
+            </div>
+            <br />
+            <div class="form-group">                         
+                <label asp-for="Gender" style="margin-bottom:5px; display:inline-block; margin-right:70px; " ></label>
+                <input type="radio" asp-for="Gender" id="Male" name="Gender" value="Male" style="margin-left:30px;">
+                <label for="Male" style="margin-right:20px; ">Male</label>&nbsp;&nbsp;
+                <input type="radio" id="Female" name="Gender" value="Female">
+                <label for="Female">Female</label>                                
+            </div>
+            <br />
+            <div class="form-group">               
+                <label asp-for="DateOfJoining" style="margin-bottom:5px; display:inline-block;"></label>
+                <input type="date" asp-for="DateOfJoining" name="DateOfJoining" id="DateOfJoining" style="margin-left:53px;">
+                <br />              
+            </div>
+            <br />
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">               
+                <label asp-for="Department" style="margin-bottom:5px; display:inline-block;"></label>
+                <Select type="text" name="department" id="department" style="margin-left:17px;">
+                <option value="Appliction Development">AI Development</option>
+                <option value="System Development">System Development</option>
+                <option value="AI Development">Appliction Development</option>
+                </Select>              
+            </div>
+            <br />
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">               
+                <label asp-for="Location" style="margin-bottom:5px; display:inline-block;"></label>
+                <input type="text" asp-for="Location" name="Location" id="Location" style="margin-left:50px;">
+                <br />
+                <span asp-validation-for="Location" class="text-danger"></span>              
+            </div>
+            <br />
+            <div class="form-group">                           
+                <button type="submit" class="btn btn-outline-primary" style="width:150px"> Save</button>&nbsp;&nbsp;
+                <button type="reset" onclick="this.form.reset();return false" class="btn btn-outline-primary" style="width:150px">Cancel</button>                                        
+            </div>
+            </div>
+        </div>
+   </div>
+   
+
+</form>
+
+@section Scripts{
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}
+
+
